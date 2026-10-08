@@ -1,0 +1,819 @@
+{
+  "nodes": {
+    "Discussion Area 1": {
+      "x": -3.3537109610550693,
+      "y": 0.19751412315838032,
+      "z": 1.0671343055650184,
+      "ref_image": "C_1.jpg",
+      "category": "discussion",
+      "aliases": [
+        "Discussion Area 1",
+        "discussion area 1",
+        "讨论区",
+        "交流区",
+        "会议区",
+        "小组讨论",
+        "讨论作业",
+        "组会",
+        "开会",
+        "协作",
+        "group discussion",
+        "discussion area",
+        "meeting area"
+      ],
+      "description": "适合多人讨论、交流、开会、组会和协作学习的开放讨论空间。"
+    },
+    "Rest Area 4 Entrance": {
+      "x": -3.4201826022631487,
+      "y": 0.15697315193018968,
+      "z": -1.9859518163528995,
+      "ref_image": "C_111.jpg",
+      "category": "rest_area",
+      "aliases": [
+        "Rest Area 4 Entrance",
+        "rest area 4 entrance",
+        "休息区",
+        "休息",
+        "座位",
+        "等人",
+        "放松",
+        "休息一下",
+        "rest area",
+        "lounge"
+      ],
+      "description": "适合短暂停留、休息、等候和放松的公共休息空间。"
+    },
+    "Discussion Area 2": {
+      "x": -5.154881573709889,
+      "y": 0.29561039876712847,
+      "z": 0.5941312830624583,
+      "ref_image": "C_16.jpg",
+      "category": "discussion",
+      "aliases": [
+        "Discussion Area 2",
+        "discussion area 2",
+        "讨论区",
+        "交流区",
+        "会议区",
+        "小组讨论",
+        "讨论作业",
+        "组会",
+        "开会",
+        "协作",
+        "group discussion",
+        "discussion area",
+        "meeting area"
+      ],
+      "description": "适合多人讨论、交流、开会、组会和协作学习的开放讨论空间。"
+    },
+    "Discussion Area 3": {
+      "x": -5.414128557343094,
+      "y": 0.29795274692180085,
+      "z": -0.694173717307968,
+      "ref_image": "C_26.jpg",
+      "category": "discussion",
+      "aliases": [
+        "Discussion Area 3",
+        "discussion area 3",
+        "讨论区",
+        "交流区",
+        "会议区",
+        "小组讨论",
+        "讨论作业",
+        "组会",
+        "开会",
+        "协作",
+        "group discussion",
+        "discussion area",
+        "meeting area"
+      ],
+      "description": "适合多人讨论、交流、开会、组会和协作学习的开放讨论空间。"
+    },
+    "Discussion Area 4": {
+      "x": -4.720821147258747,
+      "y": 0.24211341299619465,
+      "z": -1.965013071340146,
+      "ref_image": "C_37.jpg",
+      "category": "discussion",
+      "aliases": [
+        "Discussion Area 4",
+        "discussion area 4",
+        "讨论区",
+        "交流区",
+        "会议区",
+        "小组讨论",
+        "讨论作业",
+        "组会",
+        "开会",
+        "协作",
+        "group discussion",
+        "discussion area",
+        "meeting area"
+      ],
+      "description": "适合多人讨论、交流、开会、组会和协作学习的开放讨论空间。"
+    },
+    "Discussion Area 5": {
+      "x": -3.460856071482751,
+      "y": 0.17835609237476716,
+      "z": -1.7644447675183637,
+      "ref_image": "C_47.jpg",
+      "category": "discussion",
+      "aliases": [
+        "Discussion Area 5",
+        "discussion area 5",
+        "讨论区",
+        "交流区",
+        "会议区",
+        "小组讨论",
+        "讨论作业",
+        "组会",
+        "开会",
+        "协作",
+        "group discussion",
+        "discussion area",
+        "meeting area"
+      ],
+      "description": "适合多人讨论、交流、开会、组会和协作学习的开放讨论空间。"
+    },
+    "Discussion Area 6": {
+      "x": -3.422216005375562,
+      "y": 0.19168019551152568,
+      "z": -0.4254027636398162,
+      "ref_image": "C_56.jpg",
+      "category": "discussion",
+      "aliases": [
+        "Discussion Area 6",
+        "discussion area 6",
+        "讨论区",
+        "交流区",
+        "会议区",
+        "小组讨论",
+        "讨论作业",
+        "组会",
+        "开会",
+        "协作",
+        "group discussion",
+        "discussion area",
+        "meeting area"
+      ],
+      "description": "适合多人讨论、交流、开会、组会和协作学习的开放讨论空间。"
+    },
+    "Rest Area 4 Exit": {
+      "x": -1.3336359971344844,
+      "y": 0.0591285434832471,
+      "z": -1.824888017526267,
+      "ref_image": "D1_33.jpg",
+      "category": "rest_area",
+      "aliases": [
+        "Rest Area 4 Exit",
+        "rest area 4 exit",
+        "休息区",
+        "休息",
+        "座位",
+        "等人",
+        "放松",
+        "休息一下",
+        "rest area",
+        "lounge"
+      ],
+      "description": "适合短暂停留、休息、等候和放松的公共休息空间。"
+    },
+    "Rest Area 3 Entrance": {
+      "x": -1.76471659136211,
+      "y": 0.1326994689007845,
+      "z": 0.9262574665093274,
+      "ref_image": "D2_22.jpg",
+      "category": "rest_area",
+      "aliases": [
+        "Rest Area 3 Entrance",
+        "rest area 3 entrance",
+        "休息区",
+        "休息",
+        "座位",
+        "等人",
+        "放松",
+        "休息一下",
+        "rest area",
+        "lounge"
+      ],
+      "description": "适合短暂停留、休息、等候和放松的公共休息空间。"
+    },
+    "Zone H Corridor": {
+      "x": -2.343716859321822,
+      "y": 0.1751858622502914,
+      "z": 1.2038881448814365,
+      "ref_image": "D2_28.jpg",
+      "category": "corridor",
+      "aliases": [
+        "Zone H Corridor",
+        "zone h corridor",
+        "走廊",
+        "通道",
+        "过道",
+        "入口",
+        "区域入口",
+        "corridor",
+        "entrance",
+        "H区走廊",
+        "H区通道",
+        "通往讨论区"
+      ],
+      "description": "Zone H 走廊通道，连接学习区和讨论区。"
+    },
+    "Chinese Computer and Communication History Exhibition Part 2": {
+      "x": -1.2242929648072045,
+      "y": 0.03055478188428598,
+      "z": -1.9494560845826359,
+      "ref_image": "E1_2.jpg",
+      "category": "exhibition",
+      "aliases": [
+        "Chinese Computer and Communication History Exhibition Part 2",
+        "chinese computer and communication history exhibition part 2",
+        "展览",
+        "展区",
+        "展板",
+        "历史展",
+        "通信史",
+        "计算机历史",
+        "参观",
+        "看展览",
+        "exhibition",
+        "history display"
+      ],
+      "description": "展示计算机与通信发展历史、展板、展柜和相关展品的参观区域。"
+    },
+    "Glass Cabinet Between Exhibition Parts": {
+      "x": 0.5037266267333715,
+      "y": -0.04837645647192453,
+      "z": -1.80867143016762,
+      "ref_image": "E1_41.jpg",
+      "category": "exhibition",
+      "aliases": [
+        "Glass Cabinet Between Exhibition Parts",
+        "glass cabinet between exhibition parts",
+        "展览",
+        "展区",
+        "展板",
+        "历史展",
+        "通信史",
+        "计算机历史",
+        "参观",
+        "看展览",
+        "exhibition",
+        "history display",
+        "玻璃柜",
+        "展柜中间",
+        "展区连接",
+        "display cabinet",
+        "glass cabinet"
+      ],
+      "description": "位于两个展览部分之间的玻璃展柜节点。"
+    },
+    "Zone E2 Entrance": {
+      "x": 0.4916295913270417,
+      "y": -0.021661448219378553,
+      "z": 1.08930895003179,
+      "ref_image": "E2_1.jpg",
+      "category": "corridor",
+      "aliases": [
+        "Zone E2 Entrance",
+        "zone e2 entrance",
+        "走廊",
+        "通道",
+        "过道",
+        "入口",
+        "区域入口",
+        "corridor",
+        "entrance",
+        "E2入口",
+        "E2区入口"
+      ],
+      "description": "Zone E2 区域入口节点。"
+    },
+    "Zone E2 Booth": {
+      "x": -0.5762065361713078,
+      "y": 0.02849693323207881,
+      "z": 1.0606866115240559,
+      "ref_image": "E2_16.jpg",
+      "category": "corridor",
+      "aliases": [
+        "Zone E2 Booth",
+        "zone e2 booth",
+        "E2展位",
+        "E2区域",
+        "展位",
+        "booth",
+        "zone e2"
+      ],
+      "description": "Zone E2 展位附近的通行节点。"
+    },
+    "Chinese Computer and Communication History Exhibition Part 1": {
+      "x": 1.560854166168193,
+      "y": -0.12337798253008643,
+      "z": -1.6431826917300039,
+      "ref_image": "F1_7.jpg",
+      "category": "exhibition",
+      "aliases": [
+        "Chinese Computer and Communication History Exhibition Part 1",
+        "chinese computer and communication history exhibition part 1",
+        "展览",
+        "展区",
+        "展板",
+        "历史展",
+        "通信史",
+        "计算机历史",
+        "参观",
+        "看展览",
+        "exhibition",
+        "history display"
+      ],
+      "description": "展示计算机与通信发展历史、展板、展柜和相关展品的参观区域。"
+    },
+    "Zone J Corridor": {
+      "x": 1.339055955604259,
+      "y": -0.0600625924665475,
+      "z": 1.489574300402881,
+      "ref_image": "F2_13.jpg",
+      "category": "corridor",
+      "aliases": [
+        "Zone J Corridor",
+        "zone j corridor",
+        "走廊",
+        "通道",
+        "过道",
+        "入口",
+        "区域入口",
+        "corridor",
+        "entrance",
+        "J区走廊",
+        "J区通道",
+        "主通道"
+      ],
+      "description": "Zone J 走廊通道，连接卫生间、学习区和 E2 区域。"
+    },
+    "Rest Area 1": {
+      "x": 2.0840993374505534,
+      "y": -0.0998835013575059,
+      "z": 0.611989169701362,
+      "ref_image": "G_16.jpg",
+      "category": "rest_area",
+      "aliases": [
+        "Rest Area 1",
+        "rest area 1",
+        "休息区",
+        "休息",
+        "座位",
+        "等人",
+        "放松",
+        "休息一下",
+        "rest area",
+        "lounge"
+      ],
+      "description": "适合短暂停留、休息、等候和放松的公共休息空间。"
+    },
+    "Rest Area 2": {
+      "x": 1.3720732710547856,
+      "y": -0.05925413274776452,
+      "z": 0.4606841286207839,
+      "ref_image": "G_36.jpg",
+      "category": "rest_area",
+      "aliases": [
+        "Rest Area 2",
+        "rest area 2",
+        "休息区",
+        "休息",
+        "座位",
+        "等人",
+        "放松",
+        "休息一下",
+        "rest area",
+        "lounge"
+      ],
+      "description": "适合短暂停留、休息、等候和放松的公共休息空间。"
+    },
+    "Restroom": {
+      "x": 3.1512893917903826,
+      "y": -0.16317098591991835,
+      "z": 1.4227844325029522,
+      "ref_image": "G_79.jpg",
+      "category": "facility",
+      "aliases": [
+        "Restroom",
+        "restroom",
+        "厕所",
+        "卫生间",
+        "洗手间",
+        "toilet",
+        "bathroom",
+        "wc"
+      ],
+      "description": "提供卫生间、洗手间服务的公共设施位置。"
+    },
+    "Study Area 3": {
+      "x": -2.4753420264470707,
+      "y": 0.1512176848057899,
+      "z": 2.167859196799654,
+      "ref_image": "H_31.jpg",
+      "category": "study",
+      "aliases": [
+        "Study Area 3",
+        "study area 3",
+        "学习区",
+        "自习区",
+        "安静学习",
+        "看书",
+        "学习",
+        "自习",
+        "quiet study",
+        "study area",
+        "reading area"
+      ],
+      "description": "适合安静学习、阅读、自习和个人专注工作的学习空间。"
+    },
+    "Study Area 2": {
+      "x": -0.6378479453919464,
+      "y": 0.06479829009046154,
+      "z": 2.322855679537526,
+      "ref_image": "I_12.jpg",
+      "category": "study",
+      "aliases": [
+        "Study Area 2",
+        "study area 2",
+        "学习区",
+        "自习区",
+        "安静学习",
+        "看书",
+        "学习",
+        "自习",
+        "quiet study",
+        "study area",
+        "reading area"
+      ],
+      "description": "适合安静学习、阅读、自习和个人专注工作的学习空间。"
+    },
+    "Study Area 1": {
+      "x": 1.1185136260116422,
+      "y": -0.030457383078500586,
+      "z": 2.4872902584335215,
+      "ref_image": "J_15.jpg",
+      "category": "study",
+      "aliases": [
+        "Study Area 1",
+        "study area 1",
+        "学习区",
+        "自习区",
+        "安静学习",
+        "看书",
+        "学习",
+        "自习",
+        "quiet study",
+        "study area",
+        "reading area"
+      ],
+      "description": "适合安静学习、阅读、自习和个人专注工作的学习空间。"
+    },
+    "Stairs Entrance": {
+      "x": 6.440414218662567,
+      "y": -0.37500359845445796,
+      "z": -1.1610166726600757,
+      "ref_image": "O_1.jpg",
+      "category": "vertical_transport",
+      "aliases": [
+        "Stairs Entrance",
+        "stairs entrance",
+        "走廊",
+        "通道",
+        "过道",
+        "入口",
+        "区域入口",
+        "corridor",
+        "entrance",
+        "楼梯",
+        "楼梯口",
+        "楼道",
+        "上下楼",
+        "stairs",
+        "stair entrance"
+      ],
+      "description": "楼梯入口位置，可用于楼层间通行和疏散。"
+    },
+    "5th Floor Introduction Board": {
+      "x": 5.664742664746213,
+      "y": -0.32934440698779943,
+      "z": -0.024886454110269574,
+      "ref_image": "O_144.jpg",
+      "category": "information",
+      "aliases": [
+        "5th Floor Introduction Board",
+        "5th floor introduction board",
+        "展览",
+        "展区",
+        "展板",
+        "历史展",
+        "通信史",
+        "计算机历史",
+        "参观",
+        "看展览",
+        "exhibition",
+        "history display",
+        "介绍牌",
+        "楼层介绍",
+        "五层介绍",
+        "导览牌",
+        "introduction board",
+        "information board"
+      ],
+      "description": "第五层空间介绍和导览信息展示牌。"
+    },
+    "Zone O Center": {
+      "x": 5.330511472263347,
+      "y": -0.2896788879865116,
+      "z": 0.659469232257581,
+      "ref_image": "O_16.jpg",
+      "category": "corridor",
+      "aliases": [
+        "Zone O Center",
+        "zone o center",
+        "O区",
+        "O区中心",
+        "大厅中心",
+        "入口大厅",
+        "zone o",
+        "main hall"
+      ],
+      "description": "Zone O 中心通行区域，连接入口、展板、楼梯和展柜。"
+    },
+    "Development History Board": {
+      "x": 2.699580479241208,
+      "y": -0.14158307100737957,
+      "z": 0.27741363591285995,
+      "ref_image": "O_189.jpg",
+      "category": "exhibition",
+      "aliases": [
+        "Development History Board",
+        "development history board",
+        "展览",
+        "展区",
+        "展板",
+        "历史展",
+        "通信史",
+        "计算机历史",
+        "参观",
+        "看展览",
+        "exhibition",
+        "history display",
+        "发展历程",
+        "历史展板",
+        "发展历史",
+        "通信发展",
+        "development history"
+      ],
+      "description": "展示发展历程与历史信息的展板位置。"
+    },
+    "Artifact Donation Cabinet": {
+      "x": 4.744270427999007,
+      "y": -0.24154564895420022,
+      "z": 1.6536472685589356,
+      "ref_image": "O_24.jpg",
+      "category": "exhibition",
+      "aliases": [
+        "Artifact Donation Cabinet",
+        "artifact donation cabinet",
+        "展览",
+        "展区",
+        "展板",
+        "历史展",
+        "通信史",
+        "计算机历史",
+        "参观",
+        "看展览",
+        "exhibition",
+        "history display",
+        "捐赠柜",
+        "展柜",
+        "藏品",
+        "实物展品",
+        "artifact cabinet",
+        "donation cabinet"
+      ],
+      "description": "展示捐赠展品、实物藏品和相关资料的展柜。"
+    },
+    "Zone O Central Pillar": {
+      "x": 4.359161194942247,
+      "y": -0.23650441986880852,
+      "z": 0.09210939051568368,
+      "ref_image": "O_37.jpg",
+      "category": "landmark",
+      "aliases": [
+        "Zone O Central Pillar",
+        "zone o central pillar",
+        "柱子",
+        "中心柱",
+        "O区柱子",
+        "central pillar"
+      ],
+      "description": "Zone O 中央柱体附近的地标通行节点。"
+    },
+    "Ye Peida Statue": {
+      "x": 4.922900366175297,
+      "y": -0.2832563534073904,
+      "z": -0.9121497167319474,
+      "ref_image": "O_46.jpg",
+      "category": "landmark",
+      "aliases": [
+        "Ye Peida Statue",
+        "ye peida statue",
+        "叶培大",
+        "雕像",
+        "塑像",
+        "名人雕像",
+        "statue",
+        "landmark"
+      ],
+      "description": "叶培大先生雕像，是展区内具有辨识度的地标节点。"
+    },
+    "Glass Display Cabinet Far Side": {
+      "x": 2.5147751564472327,
+      "y": -0.17454099933761397,
+      "z": -1.566370959938262,
+      "ref_image": "O_82.jpg",
+      "category": "exhibition",
+      "aliases": [
+        "Glass Display Cabinet Far Side",
+        "glass display cabinet far side",
+        "展览",
+        "展区",
+        "展板",
+        "历史展",
+        "通信史",
+        "计算机历史",
+        "参观",
+        "看展览",
+        "exhibition",
+        "history display",
+        "玻璃展柜",
+        "展柜远端",
+        "展品柜",
+        "display cabinet",
+        "glass cabinet"
+      ],
+      "description": "玻璃展柜远端节点，展示历史资料和实物展品。"
+    },
+    "Fire Exit Door": {
+      "x": 3.8639357000675143,
+      "y": -0.25259165393820077,
+      "z": -1.4368299271685525,
+      "ref_image": "O_90.jpg",
+      "category": "safety",
+      "aliases": [
+        "Fire Exit Door",
+        "fire exit door",
+        "安全出口",
+        "消防门",
+        "逃生门",
+        "应急出口",
+        "fire exit",
+        "emergency exit"
+      ],
+      "description": "消防疏散门和应急出口位置。"
+    }
+  },
+  "edges": [
+    {
+      "from": "Stairs Entrance",
+      "to": "5th Floor Introduction Board"
+    },
+    {
+      "from": "Stairs Entrance",
+      "to": "Ye Peida Statue"
+    },
+    {
+      "from": "5th Floor Introduction Board",
+      "to": "Zone O Center"
+    },
+    {
+      "from": "Zone O Center",
+      "to": "Artifact Donation Cabinet"
+    },
+    {
+      "from": "Zone O Center",
+      "to": "Zone O Central Pillar"
+    },
+    {
+      "from": "Ye Peida Statue",
+      "to": "Zone O Central Pillar"
+    },
+    {
+      "from": "Ye Peida Statue",
+      "to": "Fire Exit Door"
+    },
+    {
+      "from": "Fire Exit Door",
+      "to": "Glass Display Cabinet Far Side"
+    },
+    {
+      "from": "Development History Board",
+      "to": "Glass Display Cabinet Far Side"
+    },
+    {
+      "from": "Artifact Donation Cabinet",
+      "to": "Restroom"
+    },
+    {
+      "from": "Restroom",
+      "to": "Rest Area 1"
+    },
+    {
+      "from": "Restroom",
+      "to": "Zone J Corridor"
+    },
+    {
+      "from": "Zone J Corridor",
+      "to": "Study Area 1"
+    },
+    {
+      "from": "Zone J Corridor",
+      "to": "Rest Area 2"
+    },
+    {
+      "from": "Zone J Corridor",
+      "to": "Zone E2 Entrance"
+    },
+    {
+      "from": "Zone E2 Entrance",
+      "to": "Zone E2 Booth"
+    },
+    {
+      "from": "Zone J Corridor",
+      "to": "Zone E2 Booth"
+    },
+    {
+      "from": "Zone E2 Booth",
+      "to": "Study Area 2"
+    },
+    {
+      "from": "Zone E2 Booth",
+      "to": "Rest Area 3 Entrance"
+    },
+    {
+      "from": "Rest Area 3 Entrance",
+      "to": "Zone H Corridor"
+    },
+    {
+      "from": "Zone H Corridor",
+      "to": "Study Area 3"
+    },
+    {
+      "from": "Zone H Corridor",
+      "to": "Discussion Area 1"
+    },
+    {
+      "from": "Discussion Area 1",
+      "to": "Discussion Area 2"
+    },
+    {
+      "from": "Discussion Area 2",
+      "to": "Discussion Area 3"
+    },
+    {
+      "from": "Discussion Area 3",
+      "to": "Discussion Area 4"
+    },
+    {
+      "from": "Discussion Area 4",
+      "to": "Discussion Area 5"
+    },
+    {
+      "from": "Discussion Area 5",
+      "to": "Discussion Area 6"
+    },
+    {
+      "from": "Discussion Area 6",
+      "to": "Discussion Area 1"
+    },
+    {
+      "from": "Discussion Area 5",
+      "to": "Rest Area 4 Entrance"
+    },
+    {
+      "from": "Rest Area 4 Entrance",
+      "to": "Rest Area 4 Exit"
+    },
+    {
+      "from": "Rest Area 4 Exit",
+      "to": "Chinese Computer and Communication History Exhibition Part 2"
+    },
+    {
+      "from": "Chinese Computer and Communication History Exhibition Part 2",
+      "to": "Glass Cabinet Between Exhibition Parts"
+    },
+    {
+      "from": "Glass Cabinet Between Exhibition Parts",
+      "to": "Chinese Computer and Communication History Exhibition Part 1"
+    },
+    {
+      "from": "Chinese Computer and Communication History Exhibition Part 1",
+      "to": "Glass Display Cabinet Far Side"
+    }
+  ]
+}

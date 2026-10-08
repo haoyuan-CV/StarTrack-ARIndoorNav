@@ -1,0 +1,3 @@
+-keep class com.indoornav.wifiplugin.** { *; }
+-keep interface com     .indoornav.wifiplugin.** { *; }
+-keepclassmembers class com.indoornav.wifiplugin.** { *; }

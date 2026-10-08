@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+scipy
+numpy
+opencv-python
+tqdm>=4.36.0
+matplotlib
+plotly
+h5py
+pycolmap>=3.13.0
+kornia>=0.6.11
+gdown
+networkx
+pillow
+torch
+torchvision
+open-clip-torch
+lightglue @ git+https://github.com/cvg/LightGlue

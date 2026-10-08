@@ -1,0 +1,25 @@
+# Unity generated directories
+/frontend_unity/[Ll]ibrary/
+/frontend_unity/[Tt]emp/
+/frontend_unity/[Oo]bj/
+/frontend_unity/[Ll]ogs/
+/frontend_unity/[Uu]ser[Ss]ettings/
+/frontend_unity/[Bb]uild/
+/frontend_unity/[Bb]uilds/
+
+# Development environments and caches
+.vs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# OS files
+Thumbs.db
+.DS_Store
