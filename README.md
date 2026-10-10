@@ -21,9 +21,11 @@ StarTrack（星轨）面向大型室内空间导航需求，利用现有WiFi基�
 
 点击下图可打开完整演示视频：
 
-<a href="demo/StarTrack-navigation-demo.mp4">
-  <img src="demo/demo-preview.jpg" alt="StarTrack 图书馆实机 AR 导航演示" width="320">
-</a>
+<p align="center">
+  <a href="demo/StarTrack-navigation-demo.mp4">
+    <img src="demo/demo-preview.jpg" alt="StarTrack 图书馆实机 AR 导航演示" width="320">
+  </a>
+</p>
 
 演示从自然语言目的地输入开始，展示视觉定位、路径生成、AR 箭头引导以及到达目的地提示。APK 为项目验收阶段保留的 ARM64 Android 演示构建，完整在线定位依赖后端服务。
 
