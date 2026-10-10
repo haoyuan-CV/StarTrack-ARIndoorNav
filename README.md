@@ -12,8 +12,6 @@ StarTrack（星轨）面向大型室内空间导航需求，利用现有WiFi基�
 - 项目名称：面向自然语言交互的 WiFi 视觉融合 AR 室内导航系统。
 - 在 2026 年北京邮电大学大学生创新创业训练计划项目验收评审中顺利结题。
 
-![国家级大学生创新创业训练计划项目结题证书](docs/assets/national-innovation-project-certificate.png)
-
 [查看结题证书原始 PDF](./面向自然语言交互的WiFi视觉融合AR室内导航系统.pdf)
 
 ## 应用下载与演示
